@@ -1,0 +1,14 @@
+.carousel img {
+    height: 400px;
+    opacity: 0.9;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
